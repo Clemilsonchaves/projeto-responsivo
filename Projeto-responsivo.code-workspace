@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Projeto-responsivo",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Projeto-responsivo"
+	}
+}
